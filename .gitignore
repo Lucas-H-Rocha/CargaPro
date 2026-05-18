@@ -38,6 +38,8 @@ yarn-error.*
 
 app-example
 
+config.js
+
 # generated native folders
 /ios
 /android
